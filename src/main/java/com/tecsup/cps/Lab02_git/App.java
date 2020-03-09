@@ -18,4 +18,22 @@ public class App
     	//JUST DO IT, DON'T LET YOUR DREAMS.
     	
     }
+<<<<<<< HEAD
+    
+    
+    public static void metodo_dev02() {
+    	
+    	
+    	//GAAAAAAA
+    	
+    	
+    	
+    }
+    
+=======
+    public static void metodo_dev01() {
+    	
+    	System.out.println("HOlaaa_dev01");
+    }
+>>>>>>> branch 'master' of https://github.com/AndreeBP/Lab02-git
 }
