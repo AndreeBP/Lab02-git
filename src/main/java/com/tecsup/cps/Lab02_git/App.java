@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" ); // ...
     }
+<<<<<<< HEAD
     
     
     public static void metodo_dev02() {
@@ -21,4 +22,10 @@ public class App
     	
     }
     
+=======
+    public static void metodo_dev01() {
+    	
+    	System.out.println("HOlaaa_dev01");
+    }
+>>>>>>> branch 'master' of https://github.com/AndreeBP/Lab02-git
 }
