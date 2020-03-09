@@ -1,4 +1,4 @@
-package com.tecsup.cps.Lab02_git;
+package tecsup.cps.Lab02_git;
 
 /**
  * Hello world!
